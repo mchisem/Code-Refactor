@@ -1,2 +1,2 @@
 # Homework-01
-Code Refactor
+For this assignment I altered the original code to make it meet accessibility standards.
